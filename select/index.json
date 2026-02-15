@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Electric Shock",
+  "base_artist": "f(x)",
+  "createdAt": "2026-02-15T16:29:15.516793Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Electric Shock",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/01_Electric_Shock_f(x).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Electric Shock",
+      "artist": "Deee-Lite",
+      "has_synced": false,
+      "path": "select/02_Electric_Shock_Deee-Lite.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Electric Shock",
+      "artist": "Deee‐Lite",
+      "has_synced": false,
+      "path": "select/03_Electric_Shock_Deee‐Lite.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Electric Shock",
+      "artist": "The Human League",
+      "has_synced": true,
+      "path": "select/04_Electric_Shock_The_Human_League.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Electric Shock",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/05_Electric_Shock_f(x).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Electric Shock",
+      "artist": "The Futureheads",
+      "has_synced": false,
+      "path": "select/06_Electric_Shock_The_Futureheads.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ELECTRIC SHOCK",
+      "artist": "Alleycvt",
+      "has_synced": true,
+      "path": "select/07_ELECTRIC_SHOCK_Alleycvt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Electric Shock",
+      "artist": "F(X)",
+      "has_synced": true,
+      "path": "select/08_Electric_Shock_F(X).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Electric Shock",
+      "artist": "Human League",
+      "has_synced": true,
+      "path": "select/09_Electric_Shock_Human_League.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Booker T & His Electric Shock",
+      "artist": "Markley",
+      "has_synced": true,
+      "path": "select/10_Booker_T_&_His_Electric_Shock_Markley.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "觸電 Electric Shock",
+      "artist": "S.H.E",
+      "has_synced": true,
+      "path": "select/11_觸電_Electric_Shock_S.H.E.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Electric Shock",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/12_Electric_Shock_f(x).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Electric Shock",
+      "artist": "Kang Daniel (강다니엘)",
+      "has_synced": false,
+      "path": "select/13_Electric_Shock_Kang_Daniel_(강다니엘).txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Electric Shock & Bazooka",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/14_Electric_Shock_&_Bazooka_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Electric Shock (LP Version)",
+      "artist": "Deee-Lite",
+      "has_synced": true,
+      "path": "select/15_Electric_Shock_(LP_Version)_Deee-Lite.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Electric Shock",
+      "artist": "에프엑스",
+      "has_synced": true,
+      "path": "select/16_Electric_Shock_에프엑스.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Electric Shock",
+      "artist": "f(x)",
+      "has_synced": false,
+      "path": "select/pl_01_Electric_Shock_f(x).txt"
+    }
+  ]
+}
